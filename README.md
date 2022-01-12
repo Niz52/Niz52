@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niz52
+- 👋 Hi, I’m Nizam. (@Niz52)
 - 👀 I’m interested in computer games and 3D animation.
 - 🌱 I’m currently learning C#,C++,PhP and Blender.
 - 📫 nizamcanmaden@gmail.com
